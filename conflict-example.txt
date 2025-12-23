@@ -1,0 +1,17 @@
+# Contact Information
+# -------------------
+# Company: Tech Solutions Inc.
+# Email: contact@techsolutions.com
+# Phone: +1-555-0123
+
+# This line will cause a conflict:
+Modified by Haitham 
+
+# Address:
+# 123 Main Street
+# Tech City, TC 10101
+
+# Leave everything below as is:
+This file demonstrates merge conflicts.
+Two people might edit the same line.
+Git needs help deciding which change to keep.
